@@ -1,0 +1,12 @@
+ex04
+
+consultez Dart Style Guide
+Fibonacci -> fibonacci
+
+print dans main
+une fonction doit renvoyer (return) une valeur
+
+Question 2:
+(536.14, 384.05) 
+êtes-vous sûr?
+
