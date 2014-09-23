@@ -6,7 +6,7 @@ void main() {
   print("");
   print("Question 1:");
   
-  //Référence: https://docs.google.com/presentation/d/1dnz-3b4-KsdgTnLDzI381SILc26fCgyuuYLbe96gBC0/edit#slide=id.g2e60941c_0_20, diapositive 43
+  // Référence: https://docs.google.com/presentation/d/1dnz-3b4-KsdgTnLDzI381SILc26fCgyuuYLbe96gBC0/edit#slide=id.g2e60941c_0_20, diapositive 43
   int count = 9;
   String sequence = fibonacciIteration(count);
   print('Fibonacci with iteration: '
