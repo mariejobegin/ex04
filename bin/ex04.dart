@@ -37,7 +37,7 @@ void main() {
   
 }
 
-//Référence: https://docs.google.com/presentation/d/1dnz-3b4-KsdgTnLDzI381SILc26fCgyuuYLbe96gBC0/edit#slide=id.g2e60941c_0_20, diapositive 42
+//Référence provient de : https://docs.google.com/presentation/d/1dnz-3b4-KsdgTnLDzI381SILc26fCgyuuYLbe96gBC0/edit#slide=id.g2e60941c_0_20, diapositive 42
 String fibonacciIteration(int t) {
   
   int a = 0, b = 1, f = 1, n = 1;
