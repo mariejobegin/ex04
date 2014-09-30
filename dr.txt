@@ -1,5 +1,21 @@
 ex04
 
+18/20
+
+CoordonneeRectangle
+->
+coordonneeRectangle
+également d'autres fonctions
+voir Dart Style Guide
+
+Question 2:
+-2 (536.14, 384.05)
+
+Starts at (400.0, 300.0).
+The end point of the line is at (513.14, 413.14).
+
+-----------------------
+
 consultez Dart Style Guide
 Fibonacci -> fibonacci
 
